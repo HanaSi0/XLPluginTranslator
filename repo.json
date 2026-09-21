@@ -3,7 +3,7 @@
     "Author": "Sh1riN",
     "Name": "XLPluginTranslator",
     "InternalName": "XLPluginTranslator",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "实时翻译并本地化 Dalamud 插件仓库简介与说明的辅助工具。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -16,8 +16,8 @@
       "helper"
     ],
     "RepoUrl": "https://github.com/HanaSi0/XLPluginTranslator",
-    "DownloadLinkInstall": "https://github.com/HanaSi0/XLPluginTranslator/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/HanaSi0/XLPluginTranslator/releases/download/v1.0.0/latest.zip",
-    "LastUpdate": "1790103720"
+    "DownloadLinkInstall": "https://github.com/HanaSi0/XLPluginTranslator/releases/download/v1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/HanaSi0/XLPluginTranslator/releases/download/v1.1.0/latest.zip",
+    "LastUpdate": "1790503720"
   }
 ]
