@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Sh1riN",
+    "Name": "XLPluginTranslator",
+    "InternalName": "XLPluginTranslator",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "实时翻译并本地化 Dalamud 插件仓库简介与说明的辅助工具。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "一键浏览并翻译所有 Dalamud 插件仓库的英文简介。",
+    "IconUrl": "https://raw.githubusercontent.com/HanaSi0/XLPluginTranslator/main/images/icon.png",
+    "Tags": [
+      "translation",
+      "utility",
+      "chinese",
+      "helper"
+    ],
+    "RepoUrl": "https://github.com/HanaSi0/XLPluginTranslator",
+    "DownloadLinkInstall": "https://github.com/HanaSi0/XLPluginTranslator/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/HanaSi0/XLPluginTranslator/releases/download/v1.0.0/latest.zip",
+    "LastUpdate": "1790103720"
+  }
+]
