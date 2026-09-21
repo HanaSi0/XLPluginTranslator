@@ -16,4 +16,4 @@
 1. 在游戏中输入 `/xlsettings` 打开设置
 2. 切换到 **插件/第三方插件** 标签页
 3. 在 **第三方插件仓库** 区域粘贴以下链接并保存：
-   https://raw.githubusercontent.com/HanaSi0/XLPluginTranslator/main/repo.json
+ https://cdn.jsdelivr.net/gh/HanaSi0/XLPluginTranslator@main/repo.json
